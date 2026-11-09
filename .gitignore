@@ -1,0 +1,15 @@
+# Local Wi-Fi credentials
+include/secrets.h
+
+# Arduino / PlatformIO build output
+build/
+.pio/
+*.elf
+*.bin
+*.map
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
